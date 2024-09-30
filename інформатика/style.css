@@ -1,0 +1,25 @@
+body {
+    font-family: arial;
+    font-weight: bold;
+    background-color: rgb(81, 79, 100);
+}
+.name {
+    color:rgb(67, 17, 71);
+    display: flex;
+    justify-content: center;
+}
+.nothing {
+    height: 20px;
+}
+.button {
+    background-color: blueviolet;
+}
+.textbutton {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: blanchedalmond;
+}
+.add {
+    color: blanchedalmond;   
+}
